@@ -1,0 +1,7 @@
+{
+  "name": "AccountaAI",
+  "description": "A personal AI accountability coach and planner.",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
